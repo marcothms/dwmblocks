@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"󰋑   ",   "~/scripts/dwm_bar/battery.sh",				10,	0},
 	{"󰕾   ",   "~/scripts/dwm_bar/volume.sh",				1,	0},
 	{"󰃭   ",   "date '+%b %d, %Y'",						30,	0},
-	{"󰥔   ",   "date '+%R'  ",						5,	0},
+	{"󰥔   ",   "date '+%R' ",						5,	0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
