@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	{"󰤨   ",   "~/scripts/dwm_bar/network.sh",				10,	0},
 	{"󰋑   ",   "~/scripts/dwm_bar/battery.sh",				10,	0},
 	{"󰕾   ",   "~/scripts/dwm_bar/volume.sh",				1,	0},
-	{"󰃭   ",   "date '+%b %d, %Y'",						30,	0},
+	{"󰃭   ",   "date '+%b %d %a, %Y'",					30,	0},
 	{"󰥔   ",   "date '+%R' ",						5,	0},
 };
 
